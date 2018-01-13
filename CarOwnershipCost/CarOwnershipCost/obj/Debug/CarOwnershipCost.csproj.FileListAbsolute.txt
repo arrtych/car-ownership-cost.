@@ -1,0 +1,10 @@
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\bin\Debug\CarOwnershipCost.exe.config
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\bin\Debug\CarOwnershipCost.exe
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\bin\Debug\CarOwnershipCost.pdb
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.csprojResolveAssemblyReference.cache
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.Form1.resources
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.Properties.Resources.resources
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.csproj.GenerateResource.Cache
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.csproj.CoreCompileInputs.cache
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.exe
+E:\TUNK\C#\examples\CarOwnershipCost\CarOwnershipCost\obj\Debug\CarOwnershipCost.pdb
